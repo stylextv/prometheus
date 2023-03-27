@@ -1,0 +1,8 @@
+{
+	"relationshipAPI": "https://laby.net/api/user/%s/get-friends",
+	"profilesFile": "profiles.json",
+	"unexploredProfilesFile": "unexplored_profiles.json",
+	"threadAmount": 10,
+	"profileFetchDelay": 0,
+	"profileSavePeriod": 300000
+}
